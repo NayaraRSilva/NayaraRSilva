@@ -34,6 +34,9 @@
 ![image](https://github.com/NayaraRSilva/NayaraRSilva/assets/113741433/c4481981-ab08-4b09-949b-92a4402fa9a4|width="10"|height="10")
 
 ##
+##
+
+<img src= "https://icons8.com.br/icon/19672/mysql"/>
  
 
 
