@@ -21,3 +21,5 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=NayaraRSilva&show_icons=true" />
 </picture>
+
+
