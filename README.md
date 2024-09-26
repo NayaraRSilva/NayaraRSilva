@@ -1,7 +1,8 @@
 # Olá, Eu sou Nayara Silva 
 
 
-- 🌱 Cursando Analise e Desenvolvimento de Sistema
+- 🌱 Formada Analise e Desenvolvimento de Sistema
+- 🌱 Cursando Cientista de Dados na DNC
 - 😄 Pronouns: ela/dela
 
 
